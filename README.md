@@ -127,13 +127,6 @@ We would like to thank the following individuals and groups for their contributi
 - The contributors and researchers who inspired this work
 - The open-source community for providing excellent tools and frameworks
 
-## Contributing
-
-We welcome contributions to this project! If you'd like to contribute:
-
-1. Fork the repository
-2. Create a new branch for your feature or fix
-3. Commit your changes and submit a pull request
 
 ## License
 
