@@ -116,8 +116,8 @@ We would like to thank the following individuals and groups for their contributi
 
 **Team Members:**
 - Mouad Benchekroun: Preprocessing and Data Preparation
-- Ali Benchfira: Baseline Model Implementation
-- Marouane Bnebrahim: Advanced Models
+- Ali Benchrifa: Baseline Model Implementation
+- Marouane Benbrahim: Advanced Models
 - Aymane Jouhari: Scaling, Results Visualization, and Analysis
 
 **Advisor:**
